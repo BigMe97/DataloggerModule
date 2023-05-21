@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Devices>
+  <Device>
+    <OPCAddress>opc.tcp://localhost:4840</OPCAddress>
+    <OPCTag>ns=2;s=temperature</OPCTag>
+    <MainLocation>USN-Porsgrunn</MainLocation>
+    <Location>C-222 Elektronikklab</Location>
+    <Equipment>AirHeater</Equipment>
+    <Tag>TT001</Tag>
+  </Device>
+</Devices>
+<!--Add more devices by repeating the Device section-->

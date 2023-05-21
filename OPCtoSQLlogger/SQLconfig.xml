@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SQL>
+  <DBHost>\SQLEXPRESS</DBHost>
+  <!--Can be set to 'machineName/sqlProvider' for specification of host-->
+  <DBName>SCADASystem</DBName>
+  <User>sa</User>
+  <Password>***********</Password>
+  <LocalHost>true</LocalHost>
+  <!--true if the database is hosted on the same machine as the logger
+      false if the DBHost is set to a custom host address-->
+</SQL>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCtoSQLlogger", "OPCtoSQLlogger\OPCtoSQLlogger.csproj", "{C601FA26-F085-475D-B0B6-FD38F584BCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C601FA26-F085-475D-B0B6-FD38F584BCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C601FA26-F085-475D-B0B6-FD38F584BCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C601FA26-F085-475D-B0B6-FD38F584BCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C601FA26-F085-475D-B0B6-FD38F584BCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DF0979-8B51-4EC1-95F8-9D641AA2D3C2}
+	EndGlobalSection
+EndGlobal
